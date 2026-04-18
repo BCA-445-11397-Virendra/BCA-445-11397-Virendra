@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Virendra Kumar Prajapati</h1>
+<h1 align="center">Hi 👋, I'm Virendra Kumar</h1>
 <h3 align="center">🚀 Software Engineer | Founder of CodeNonStop Technology | Full Stack Developer</h3>
 
 <p align="center">
@@ -34,19 +34,31 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-<p align="left">
-  <!-- Keep only relevant tools for better impact -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+
+#### 🚀 MERN Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
+#### ☕ Java Full Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+</p>
+
+#### 💻 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+#### ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+#### 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 ---
 
 ### 📊 GitHub Stats
